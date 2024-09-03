@@ -1,0 +1,18 @@
+body {
+    font-family: coursive;
+    background-color: lightblue;
+}
+h2{
+    color:darkorange;
+
+}
+h1{
+    text-align: center;
+}
+nav a{
+    margin: 25px;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+  
+}
